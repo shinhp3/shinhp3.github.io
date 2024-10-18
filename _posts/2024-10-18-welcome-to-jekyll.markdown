@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Hellow comes Shin's world"
 date:   2024-10-18 18:27:34 +0900
 categories: jekyll update
 ---
